@@ -299,9 +299,9 @@ nav+div[class^='base-'] > div[class^="notice"] {
 
 div[class^='base-']>div,
 section[class*="themed-"] {
-	--background-secondary: rgba(var(--black), 0.7);
+	--background-secondary: rgba(var(--black), 0.1);
 	--background-tertiary: rgba(var(--white), 0.05);
-	--background-primary: rgba(var(--black), 0.8);
+	--background-primary: rgba(var(--black), 0.3);
 }
 
 #app-mount>div:not([class^="appDevToolsWrapper-"]),
@@ -799,7 +799,7 @@ div[class^="splashBackground"] img {
 }
 
 .chatContent-3KubbW {
-    backdrop-filter: blur(2px);
+    backdrop-filter: blur(0px);
     background-color: var(--black);
 }
 
