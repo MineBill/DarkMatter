@@ -776,3 +776,36 @@ div[class^="splashBackground"] img {
 	background-position: var(--user-popout-position, center) center;
 	background-image: var(--user-background);
 }
+
+
+.bg-1QIAus,
+.scroller-3X7KbA.none-1rXy4P.scrollerBase-1Pkza4,
+.wrapper-1_HaEi.guilds-2JjMmN,
+.standardSidebarView-E9Pc3j,
+.layer-86YKbF {
+    background-color: transparent;
+}
+
+.sidebarRegionScroller-FXiQOh,
+.sidebar-1tnWFu {
+   background: rgba(var(--black), 0.8) !important;
+}
+
+/* .container-1NXEtd, */
+/* .container-2o3qEW, */
+.content-1SgpWY {
+    background: url('https://raw.githubusercontent.com/MineBill/DarkMatter/main/1185093.jpg') center/cover no-repeat;
+}
+
+.chatContent-3KubbW {
+    backdrop-filter: blur(5px);
+}
+
+.container-2o3qEW {
+    backdrop-filter: blur(50px);
+
+}
+
+.sidebar-1tnWFu {
+    background: rgba(var(--black), 0.35);
+}
