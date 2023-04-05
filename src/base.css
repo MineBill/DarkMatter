@@ -791,6 +791,7 @@ div[class^="splashBackground"] img {
    background: rgba(var(--black), 0.8) !important;
 }
 
+
 /* .container-1NXEtd, */
 /* .container-2o3qEW, */
 .content-1SgpWY {
@@ -798,7 +799,8 @@ div[class^="splashBackground"] img {
 }
 
 .chatContent-3KubbW {
-    backdrop-filter: blur(5px);
+    backdrop-filter: blur(2px);
+    background-color: var(--black);
 }
 
 .container-2o3qEW {
@@ -807,5 +809,5 @@ div[class^="splashBackground"] img {
 }
 
 .sidebar-1tnWFu {
-    background: rgba(var(--black), 0.35);
+    background: rgba(var(--black), 0.00);
 }
